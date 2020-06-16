@@ -18,6 +18,5 @@ Just clone my project and run it in your respective iOS platform.
 - iOS 10
 - Swift4
 
-/play secret 
 
 
